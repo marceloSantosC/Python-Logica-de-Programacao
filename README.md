@@ -1,3 +1,5 @@
-# Python_Basico
-Exercícios de Python básico. 
-62 de 71 exercícios resolvidos(10/01/2018)
+# Python básico
+Exercícios de Python com foco em lógica de programação.
+# Objetivos:
+Aprender lógica de programação e python.
+
